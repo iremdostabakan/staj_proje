@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Girişimci (Ana Bina)",
+    "price": "267,38 TL + KDV",
+    "features": [
+      "Ücretli Danışmanlık",
+      "Teknokent Avantajları",
+      "Diğer Firmalar ile İş Birliği İmkânı",
+      "Sosyal Faaliyetler"
+    ]
+  },
+  {
+    "name": "Girişimci (Ek Bina)",
+    "price": "350 TL + KDV",
+    "features": [
+      "Ücretli Danışmanlık",
+      "Teknokent Avantajları",
+      "Diğer Firmalar ile İş Birliği İmkânı",
+      "Sosyal Faaliyetler"
+    ]
+  },
+  {
+    "name": "Kuluçka",
+    "price": "2335,50 TL + KDV",
+    "features": [
+      "Danışmanlık",
+      "Bilgisayar İmkanı",
+      "İnternet",
+      "İçecek",
+      "Yatırımcı Organizasyonu",
+      "Diğer Teknokent Avantajları"
+    ]
+  },
+  {
+    "name": "Proje Revizyonu",
+    "price": "1000 TL + KDV",
+    "features": [
+      "Ücretli Danışmanlık",
+      "Teknokent Avantajları",
+      "Diğer Firmalar ile İş Birliği İmkânı",
+      "Sosyal Faaliyetler"
+    ]
+  },
+  {
+    "name": "Proje Bitirme Belgesi",
+    "price": "9000 TL + KDV",
+    "features": [
+      "Danışmanlık",
+      "Bilgisayar İmkanı",
+      "İnternet",
+      "İçecek",
+      "Yatırımcı Organizasyonu",
+      "Diğer Teknokent Avantajları"
+    ]
+  },
+  {
+    "name": "Proje Başvuru Bedeli",
+    "price": "9000 TL + KDV",
+    "features": [
+      "Danışmanlık",
+      "Bilgisayar İmkanı",
+      "İnternet",
+      "İçecek"
+    ]
+  },
+  {
+    "name": "Ön Kuluçka",
+    "price": "Ücretsiz",
+    "features": [
+      "Danışmanlık",
+      "Bilgisayar İmkanı",
+      "İnternet",
+      "İçecek"
+    ]
+  }
+]

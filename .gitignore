@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Next.js build
+/.next/
+/out/
+
+# Env
+.env.local
+
+# Log files
+*.log

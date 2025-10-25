@@ -1,0 +1,5 @@
+
+[
+{"_id":{"$oid":"689ee33b2a69d98e6e9c3b67"},"title":"frontend geliştirici","company":"Demiraysoft","type":"full-time","category":"Yazılım Geliştirme","location":"Kütahya OSB","datePosted":"2025-08-15","description":"frontend","tags":["öğrenmeye açık"],"companyLogo":"https://i.imgur.com/0jFC3ha.png","createdAt":{"$date":"2025-08-15T07:35:23.036Z"}},
+{"_id":{"$oid":"689f350f6e8d3fc96df328f1"},"title":"aaaaaa","company":"aaaaaaaaaaaaaaaaaaaa","type":"full-time","category":"Yazılım Geliştirme","location":"aaaaaaaaaaaaa","datePosted":"2025-08-15","description":"aaaaaaa","tags":[],"companyLogo":"","createdAt":{"$date":"2025-08-15T13:24:31.701Z"}}
+]
